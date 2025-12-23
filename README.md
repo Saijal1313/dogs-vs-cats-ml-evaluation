@@ -34,9 +34,9 @@ A strictly held-out test set, evaluated only at the end, provides a more reliabl
 This project was developed collaboratively as a shared learning exercise.
 
 **Contributors:**
-- Saijalpreet Kaur  
+- Saijalpreet Kaur
 - Sukhmanjeet Kaur
-- Aayush  
+- Aayush Kafle
 
 All contributors worked together during experimentation, discussion, and preparation, without strictly divided roles.
 
